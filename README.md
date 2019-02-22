@@ -1,3 +1,8 @@
+Team Boston 
+Nan Xie(IA)
+Shan Mingyuan(Designer)
+Thomas Hogrefe(Coder)
+
 Domain
 the domain of this website contains bibliography of 3 different students. 2 of them are similar in some way and 1 is different.
 

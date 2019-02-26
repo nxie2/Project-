@@ -1,26 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>the odd one out</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet"  href="css/styles.css">
-</head>
+<?php include 'inc/html-top.inc'; ?>
 
-<nav>
-     <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="amanda.html">Amanda O'Donnell</a></li>
-        <li><a href="ding.thml">Yiqun Ding</a></li>
-        <li><a href="jack.html">Jack Dalton</a></li>
-    </ul>
-</nav>
+<?php include 'inc/nav.inc'; ?>
 
 <body>
 	<div class="container">
 	<header>
-		<a href="index.html">
-		<h1>Jack Dalton</h1>
-		<img src="images/jack.jpg" alt="Photo of Jack">
+		<a href="index.php">
+			<h1>Jack Dalton</h1>
+			<img src="images/jack.jpg" alt="Photo of Jack">
+		</a>
 	</header>
 	
 
@@ -50,9 +38,8 @@
 		using arduino.</p>
 
 	</div>
+
+	<?php include 'inc/scripts.inc'; ?>
 </body>
 
-<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-
-
-</html>
+<?php include 'inc/footer.inc'; ?>

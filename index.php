@@ -1,28 +1,16 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>the odd one out</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet"  href="css/styles.css">
-</head>
+<?php include 'inc/html-top.inc'; ?>
 
-<nav>
-     <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="amanda.html">Amanda O'Donnell</a></li>
-        <li><a href="ding.thml">Yiqun Ding</a></li>
-        <li><a href="jack.html">Jack Dalton</a></li>
-    </ul>
-</nav>
+<?php include 'inc/nav.inc'; ?>
 
 <body>
 	<div class="container">
 	<header>
-		<a href="index.html">
-		<h1>bibliography</h1>
-		<img src="images/odd.jpg" alt="the odd one">
+		<a href="index.php">
+			<h1>bibliography</h1>
+			<!-- <img src="images/odd.jpg" alt="the odd one"> -->
+		</a>
+		<?php include 'inc/slider_images.inc'; ?>
 	</header>
-	
 
 	<h2>Amanda O'Donnell</h2>
 	
@@ -51,9 +39,8 @@
 		And here I am.</p>
 
 	</div>
+
+	<?php include 'inc/scripts.inc'; ?>
 </body>
 
-<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-
-
-</html>
+<?php include 'inc/footer.inc'; ?>

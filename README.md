@@ -23,7 +23,7 @@
 
 ## Choreography
  ### 1)home page 
- ### 2)Amanda Donnell
+ ### 2)Yiqun Ding
  ### 3)Jack Dalton
- ### 4)Yiqun Ding
+ ### 4)Amanda Donnell
 

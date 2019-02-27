@@ -64,6 +64,6 @@
 
 
 <?php include 'inc/scripts.inc'; ?>
+<?php include 'inc/footer.inc'; ?>
 </body>
 
-<?php include 'inc/footer.inc'; ?>

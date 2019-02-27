@@ -19,7 +19,7 @@
 		</a>
 	</header>
 
-    <div class="card  mx-2 shadow p-0 mb-4 bg-light rounded">
+    <div class="card  mx-2 shadow p-0 mb-5 bg-light rounded">
         <div class="row no-gutters">
             <div class="col-md-3">
                 <img src="images/ding.jpg" alt="Photo of Ding">
@@ -38,7 +38,7 @@
         </div>
     </div>
 
-    <div class="card  mx-2 shadow p-0 mb-4 bg-light rounded row">
+    <div class="card  mx-2 shadow p-0 mb-5 bg-light rounded row">
         <div class="card-body">
 
 	<h2 class="card-title">Work Life</h2>
@@ -51,7 +51,7 @@
 		do things; and how much I learned about work, new skills, and even new people that summer.</p>
         </div>
     </div>
-    <div class="card  mx-2 shadow p-0 mb-4 bg-light rounded row">
+    <div class="card  mx-2 shadow p-0 mb-5 bg-light rounded row">
         <div class="card-body">
 
 	<h2 class="card-title">Free time Life</h2>
@@ -65,6 +65,7 @@
 
 
  	<?php include 'inc/scripts.inc'; ?>
+    <?php include 'inc/footer.inc'; ?>
 </body>
 
-<?php include 'inc/footer.inc'; ?>
+

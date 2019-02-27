@@ -1,11 +1,18 @@
 <?php include 'inc/html-top.inc'; ?>
 
-<?php include 'inc/nav.inc'; ?>
 
-<body>
-	<div class="container">
+<body class="container">
+
 
 	<header>
+        <nav class="container pt-3">
+            <ul class="nav nav-pills float-right">
+                <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="amanda.php">Amanda O'Donnell</a></li>
+                <li class="nav-item"><a class="nav-link active" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link" href="jack.php">Jack Dalton</a></li>
+            </ul>
+        </nav>
 		<a href="index.php">
 			<h1>Yiqun Ding</h1>
 			<img src="images/ding.jpg" alt="Photo of Ding">
@@ -38,7 +45,7 @@
 		I like to go out, to explore, and to try new things. Therefore, there is not a certain kind of music of movies that
 		I call as favorite; I am always open to new things and new challenges.</p>
 
- 	</div>
+
 
  	<?php include 'inc/scripts.inc'; ?>
 </body>

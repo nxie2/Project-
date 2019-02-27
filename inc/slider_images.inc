@@ -1,27 +1,27 @@
 	<div id='coin-slider'>
 	  <a href="index.php" target="_blank">
-	    <img src='images/odd.jpg' >
+	    <img class="rounded" src='images/odd.jpg' >
 	    <span>
 	      Home
 	    </span>
 	  </a>
 	  
 	  <a href="amanda.php">
-	    <img src='images/amanda.jpg' >
+	    <img class="rounded" src='images/amanda.jpg' >
 	    <span>
 	      Amanda
 	    </span>
 	  </a>
 
 	  <a href="ding.php">
-	    <img src='images/ding.jpg' >
+	    <img class="rounded" src='images/ding.jpg' >
 	    <span>
 	      Ding
 	    </span>
 	  </a>
 
 	  <a href="jack.php">
-	    <img src='images/jack.jpg' >
+	    <img class="rounded" src='images/jack.jpg' >
 	    <span>
 	      Jack
 	    </span>

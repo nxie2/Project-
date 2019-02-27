@@ -1,10 +1,18 @@
 <?php include 'inc/html-top.inc'; ?>
 
-<?php include 'inc/nav.inc'; ?>
 
-<body>
-	<div class="container">
+
+<body class="container">
+
 	<header>
+        <nav class="container pt-3">
+            <ul class="nav nav-pills float-right">
+                <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="amanda.php">Amanda O'Donnell</a></li>
+                <li class="nav-item"><a class="nav-link" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link active" href="jack.php">Jack Dalton</a></li>
+            </ul>
+        </nav>
 		<a href="index.php">
 			<h1>Jack Dalton</h1>
 			<img src="images/jack.jpg" alt="Photo of Jack">
@@ -37,7 +45,7 @@
 		organizations on campus. Currently, I am learning how to play the guitar and how to build a self-balancing robot
 		using arduino.</p>
 
-	</div>
+
 
 	<?php include 'inc/scripts.inc'; ?>
 </body>

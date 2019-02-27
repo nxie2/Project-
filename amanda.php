@@ -7,13 +7,13 @@
 	<header>
         <nav class="container pt-3">
             <ul class="nav nav-pills float-right">
-                <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                <li class="nav-item"><a class="nav-link text-warning active" href="amanda.php">Amanda O'Donnell</a></li>
-                <li class="nav-item"><a class="nav-link" href="ding.php">Yiqun Ding</a></li>
-                <li class="nav-item"><a class="nav-link" href="jack.php">Jack Dalton</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
+                <li class="nav-item"><a class="nav-link text-white bg-danger" href="amanda.php">Amanda O'Donnell</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="jack.php">Jack Dalton</a></li>
             </ul>
         </nav>
-		<a href="index.php">
+		<a class="text-decoration-none" href="index.php">
 			<h1>Amanda O'Donnell</h1>
 			<img src="images/amanda.jpg" alt="Photo of Amanda">
 		</a>

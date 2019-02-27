@@ -7,14 +7,14 @@
 <header>
     <nav class="container pt-3">
         <ul class="nav nav-pills float-right">
-            <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+            <li class="nav-item"><a class="nav-link text-white bg-dark" href="index.php">Home</a></li>
             <li class="nav-item"><a class="nav-link text-danger" href="amanda.php">Amanda O'Donnell</a></li>
-            <li class="nav-item"><a class="nav-link" href="ding.php">Yiqun Ding</a></li>
-            <li class="nav-item"><a class="nav-link" href="jack.php">Jack Dalton</a></li>
+            <li class="nav-item"><a class="nav-link text-dark" href="ding.php">Yiqun Ding</a></li>
+            <li class="nav-item"><a class="nav-link text-dark" href="jack.php">Jack Dalton</a></li>
         </ul>
     </nav>
-    <a href="index.php">
-        <h1 >bibliography</h1>
+    <a class="text-decoration-none" href="index.php">
+        <h1>Bibliography</h1>
         <!-- <img src="images/odd.jpg" alt="the odd one"> -->
     </a>
 
@@ -23,7 +23,7 @@
 
     <div class="row card-deck">
 
-        <div class="card text-white mx-0 shadow p-0 mb-5 bg-info rounded">
+        <div class="card text-white mr-4 shadow p-0 mb-5 bg-info rounded">
             <h2 class="card-header"s>Amanda O'Donnell</h2>
 
                 <div class="card-body">

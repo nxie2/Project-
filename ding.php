@@ -8,8 +8,8 @@
         <nav class="container pt-3">
             <ul class="nav nav-pills float-right">
                 <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
-                <li class="nav-item"><a class="nav-link text-danger" href="amanda.php">Amanda O'Donnell</a></li>
-                <li class="nav-item"><a class="nav-link text-white bg-dark" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link text-white bg-danger" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="amanda.php">Amanda O'Donnell</a></li>
                 <li class="nav-item"><a class="nav-link text-dark" href="jack.php">Jack Dalton</a></li>
             </ul>
         </nav>
@@ -22,7 +22,7 @@
 
 	<h2>School Life</h2>
 
-	<p>My original plan was to double major in Psychology and International Relation, so I took many of these major coursesduring 
+    <p>My original plan was to double major in <strong>Psychology</strong> and <strong>International Relation</strong>, so I took many of these major coursesduring
 		my freshman year. However, after a year, I came to realize that International Relation is not something
 		that I am truly interested in. Then, I started looking into other majors, and eventually picked Digital Media Studies
 		because it covers many different fields and is related to communication, which I am considering as my job path in the

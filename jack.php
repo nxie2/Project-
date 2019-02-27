@@ -8,8 +8,8 @@
         <nav class="container pt-3">
             <ul class="nav nav-pills float-right">
                 <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
-                <li class="nav-item"><a class="nav-link text-danger" href="amanda.php">Amanda O'Donnell</a></li>
-                <li class="nav-item"><a class="nav-link text-dark" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link text-danger" href="ding.php">Yiqun Ding</a></li>
+                <li class="nav-item"><a class="nav-link text-dark" href="amanda.php">Amanda O'Donnell</a></li>
                 <li class="nav-item"><a class="nav-link text-white bg-dark" href="jack.php">Jack Dalton</a></li>
             </ul>
         </nav>
@@ -22,7 +22,7 @@
 
 	<h2>School Life</h2>
 
-	<p>I am a Mechanical Engineering major at the University of Rochester, and I am also minoring in Computer Science. 
+    <p>I am a <strong>Mechanical Engineering</strong> major at the University of Rochester, and I am also minoring in Computer Science.
 		I am very interested in how the world works, and I find both theoretical research and its application interesting.
 		However, I decided to major in Mechanical Engineering because the idea of building something that could impact
 		others interests me, which is why I also decided to minor in computer science. So far at UofR, 

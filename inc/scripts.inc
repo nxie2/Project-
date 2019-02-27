@@ -6,6 +6,6 @@
 
 <script type="text/javascript">
   $(document).ready(function() {
-    $('#coin-slider').coinslider({width: window.innerWidth, effect: 'straight', spw: 1, sph: 1});
+    $('#coin-slider').coinslider({width: window.innerWidth*.87, effect: 'straight', spw: 1, sph: 1});
   });
 </script>

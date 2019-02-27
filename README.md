@@ -27,3 +27,5 @@
  ### 3)Amanda Donnell
  ### 4)Jack Dalton
 
+## Slider
+http://workshop.rs/2010/04/coin-slider-image-slider-with-unique-effects/

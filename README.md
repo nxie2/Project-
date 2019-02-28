@@ -9,6 +9,9 @@
 
 ## Ontology
  ### Each student has a school life 
+ ### Each student has some majors
+ ### Each student has a picture
+ ### Each student has a name
 
 ## Taxonomy
 ### On the homepage h1 tag for bibliography,

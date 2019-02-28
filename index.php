@@ -8,9 +8,8 @@
     <nav class="container pt-3">
         <ul class="nav nav-pills float-right">
             <li class="nav-item"><a class="nav-link text-white bg-dark" href="index.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link text-danger" href="ding.php">Yiqun Ding</a></li>
-            <li class="nav-item"><a class="nav-link text-dark" href="amanda.php">Amanda O'Donnell</a></li>
-            <li class="nav-item"><a class="nav-link text-dark" href="jack.php">Jack Dalton</a></li>
+            <li class="nav-item"><a class="nav-link text-danger" href="combined.php">Combined</a></li>
+           
         </ul>
     </nav>
 

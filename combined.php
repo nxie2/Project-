@@ -8,7 +8,7 @@
         <nav class="container pt-3">
             <ul class="nav nav-pills float-right">
                 <li class="nav-item"><a class="nav-link text-dark" href="index.php">Home</a></li>
-                <li class="nav-item"><a class="nav-link text-white bg-danger" href="ding.php">The odd one</a></li>
+                <li class="nav-item"><a class="nav-link text-white bg-danger" href="ding.php">Combined</a></li>
               
             </ul>
         </nav>

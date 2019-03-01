@@ -1,6 +1,16 @@
 h1 { font-family: Lobster; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;color: black;text-shadow: 1px 1px #B8C4CF; }
-body{background-color: cornsilk}
+body{background-image:url("../images/rush-r.jpg");
+    background-size:cover;}
 h2{
     font-family: "Kohinoor Bangla";
     text-shadow: 1px 1px #B8C4CF;
+}
+.diff{
+    background-color: antiquewhite !important;
+}
+#blank{
+    height: 470px;
+}
+#blue{
+    background-color: skyblue;
 }

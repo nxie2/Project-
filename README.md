@@ -9,23 +9,22 @@
 
 ## Ontology
  ### Each student has a school life 
- ### Each student has a work life
- ### Each student has a free time life
+ ### Each student has some majors
+ ### Each student has a picture
+ ### Each student has a name
 
 ## Taxonomy
 ### On the homepage h1 tag for bibliography,
 ### h2 for each of their name follows by a brief intro.
 
-### Each individual page starts with h1 tag for the student's name, 
-### h2 for school life follows by h2 for work life follows by h2 free time life.
+### The combined page starts with h1 heading tags for students'names. h2 tags for secondary headings of school life.
 ### Footer: CSC 174: Advanced Front-end Web Design and Development
 
 
 ## Choreography
  ### 1)home page 
- ### 2)Yiqun Ding
- ### 3)Amanda Donnell
- ### 4)Jack Dalton
+ ### 2)the combined subpage
+ 
 
 ## Slider
 http://workshop.rs/2010/04/coin-slider-image-slider-with-unique-effects/

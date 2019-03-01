@@ -1,11 +1,4 @@
-	<div id='coin-slider' class="card shadow carousel slide" data-ride="carousel" >
-	  <a  href="index.php" target="_blank">
-	    <img class="rounded" src='images/odd.jpg' >
-	    <span>
-	      Home
-	    </span>
-	  </a>
-
+	<div id='coin-slider' class="card shadow carousel slide col-8" data-ride="carousel" >
 	  <a href="amanda.php">
 	    <img class="rounded" src='images/amanda.jpg' >
 	    <span>

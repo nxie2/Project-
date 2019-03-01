@@ -39,7 +39,7 @@
 
 
     <div class="card  mx-2 shadow p-0 mb-5 bg-light rounded">
-        <h2 class="card-header"s>Amanda O'Donnell</h2>
+        <h2 class="card-header">Amanda O'Donnell</h2>
 
         <div class="card-body">
             <div class="card-subtitle mb-2 text-danger">Brain & Cognitive Sciences</div>
@@ -65,5 +65,4 @@
 
 <?php include 'inc/scripts.inc'; ?>
 <?php include 'inc/footer.inc'; ?>
-</body>
 

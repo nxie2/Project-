@@ -21,7 +21,7 @@
 
 </header>
 
-<div id="blank row" style="height: 480px"></div>
+<div id="blank" ></div>
 
 <div class="row card-deck">
 
@@ -30,7 +30,7 @@
     </div>
 
     <div class="card float-right mr-0 shadow text-dark p-0 mb-5 bg rounded col-4">
-        <h2 class="card-header" style="background-color: skyblue">Student Major Areas</h2>
+        <h2 id="blue" class="card-header">Student Major Areas</h2>
         <div class="card-body diff">
 
 

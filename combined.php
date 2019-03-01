@@ -85,10 +85,10 @@
         </div>
     </div>
 </div>
-
+    <?php include 'inc/scripts.inc'; ?>
     <?php include 'inc/footer.inc'; ?>
 
- 	<?php include 'inc/scripts.inc'; ?>
+
 
 </body>
 

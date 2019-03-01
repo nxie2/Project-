@@ -8,3 +8,9 @@ h2{
 .diff{
     background-color: antiquewhite !important;
 }
+#blank{
+    height: 470px;
+}
+#blue{
+    background-color: skyblue;
+}
